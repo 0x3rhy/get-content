@@ -1,0 +1,4 @@
+E:\C#\EVA-Mine\get-content\get-content\bin\Release\get-content.exe
+E:\C#\EVA-Mine\get-content\get-content\obj\Release\get-content.csproj.AssemblyReference.cache
+E:\C#\EVA-Mine\get-content\get-content\obj\Release\get-content.csproj.CoreCompileInputs.cache
+E:\C#\EVA-Mine\get-content\get-content\obj\Release\get-content.exe

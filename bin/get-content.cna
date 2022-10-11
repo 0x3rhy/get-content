@@ -1,0 +1,13 @@
+alias get-content{
+    if($2 eq ""){
+        berror($1,"Usage: help get-content");
+        return;
+    }
+    $args = '"'.$2.'"';
+    bexecute_assembly($1, script_resource("get-content.exe"), $args);
+}
+
+beacon_command_register(
+    "get-content",
+    "read file conent",
+    "Usage: get-content <file path>");
