@@ -2,6 +2,8 @@
 **Automatically recognize text encoding, but this function needs to be improved**
 ---
 Usage:
+---
+Load get-content.cna in the bin directory
 ```sh
 get-content <file path>
 ```
